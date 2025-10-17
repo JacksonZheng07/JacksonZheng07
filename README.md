@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonZheng07)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonZheng07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JacksonZheng07/JacksonZheng07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
