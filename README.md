@@ -28,11 +28,10 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacksonZheng07&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonZheng07&layout=compact&theme=github_dark" height="180"/>
+  <img src="https://metrics.lecoq.io/JacksonZheng07?template=classic&config.timezone=America%2FNew_York" />
 </p>
 
 ---
@@ -40,13 +39,6 @@
 ## 🔥 Streak Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JacksonZheng07&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonZheng07&theme=github-compact" />
 </p>
 
 ---
