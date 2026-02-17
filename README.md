@@ -1,17 +1,69 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonZheng07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Jackson Zheng</h1>
+<h3 align="center">CS + Math @ Northeastern | Building ML + Data Automation Systems</h3>
 
-<!--
-**JacksonZheng07/JacksonZheng07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JacksonZheng07&label=Profile%20views&color=0e75b6&style=flat" alt="JacksonZheng07" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 CS + Math @ Northeastern University (Honors)  
+- ⚙️ Interested in **Data Engineering, ML, Automation, Systems, SRE**  
+- 🧠 Currently building projects around **real-world impact + scalable infrastructure**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,java,js,sql,matlab,ocaml" />
+</p>
+
+### Frameworks / Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,docker,aws,firebase,supabase,git,github,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JacksonZheng07&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonZheng07&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+---
+
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JacksonZheng07&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JacksonZheng07&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonZheng07&theme=github-compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jackson-zheng-844172247/)" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:Jacksonzheng425@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
