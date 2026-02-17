@@ -44,13 +44,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JacksonZheng07&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonZheng07&theme=github-compact" />
@@ -60,7 +53,7 @@
 
 ## 🤝 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jackson-zheng-844172247/)" target="blank">
+  <a href="https://www.linkedin.com/in/jackson-zheng-844172247/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:Jacksonzheng425@gmail.com">
