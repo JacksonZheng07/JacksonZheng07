@@ -18,20 +18,12 @@
 
 ### Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,java,js,sql,matlab,ocaml" />
+  <img src="https://skillicons.dev/icons?i=python,ts,java,js,matlab,ocaml" />
 </p>
 
 ### Frameworks / Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,docker,aws,firebase,supabase,git,github,vercel" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/JacksonZheng07?template=classic&config.timezone=America%2FNew_York" />
 </p>
 
 ---
