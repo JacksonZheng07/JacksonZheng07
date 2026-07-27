@@ -13,8 +13,6 @@
 ## About me
 
 - 🎓 Second-year **Computer Science + Mathematics** student in Northeastern's Honors Program
-- ⚙️ Interested in **data engineering, machine learning, automation, systems, and SRE**
-- 🚀 Building projects focused on **real-world impact and scalable infrastructure**
 
 ## Tech stack
 
