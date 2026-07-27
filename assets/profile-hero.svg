@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Jackson Zheng — software engineer</title>
+  <desc id="desc">A dark developer-console inspired profile banner with a glowing systems diagram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.55" stop-color="#0B1222"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#66E3C4"/>
+      <stop offset="1" stop-color="#7AA2FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#66E3C4" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#66E3C4" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#B7C5E0" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <circle cx="950" cy="205" r="235" fill="url(#glow)" filter="url(#soft)"/>
+  <rect x="34" y="32" width="1132" height="356" rx="20" fill="none" stroke="#AFC1DE" stroke-opacity=".14"/>
+
+  <circle cx="67" cy="64" r="5" fill="#FF6B6B"/>
+  <circle cx="86" cy="64" r="5" fill="#FFD166"/>
+  <circle cx="105" cy="64" r="5" fill="#66E3C4"/>
+  <text x="132" y="70" fill="#7F90AE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">jackson@build-space ~ /profile</text>
+
+  <text x="76" y="144" fill="#66E3C4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2">SOFTWARE ENGINEER · CS + MATH</text>
+  <text x="72" y="222" fill="#F4F7FC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="62" font-weight="750" letter-spacing="-2">Jackson Zheng</text>
+  <rect x="76" y="246" width="86" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="292" fill="#AAB8D0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">Building useful AI systems, reliable data infrastructure,</text>
+  <text x="76" y="323" fill="#AAB8D0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">and software that moves real work forward.</text>
+  <text x="76" y="359" fill="#71819D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">NORTHEASTERN UNIVERSITY  /  BOSTON + NEW YORK</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    <path d="M820 154 C875 154 875 112 930 112 M820 154 C875 154 875 204 930 204 M820 154 C875 154 875 296 930 296" fill="none" stroke="#66E3C4" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M1038 112 C1080 112 1080 204 1110 204 M1038 204 H1110 M1038 296 C1080 296 1080 204 1110 204" fill="none" stroke="#7AA2FF" stroke-opacity=".36" stroke-width="2"/>
+
+    <rect x="710" y="126" width="110" height="56" rx="12" fill="#0D1828" stroke="#66E3C4" stroke-opacity=".65"/>
+    <text x="765" y="159" text-anchor="middle" fill="#DDE8F7">idea</text>
+
+    <rect x="930" y="84" width="108" height="56" rx="12" fill="#0D1828" stroke="#7AA2FF" stroke-opacity=".55"/>
+    <text x="984" y="117" text-anchor="middle" fill="#DDE8F7">agents</text>
+
+    <rect x="930" y="176" width="108" height="56" rx="12" fill="#0D1828" stroke="#66E3C4" stroke-opacity=".55"/>
+    <text x="984" y="209" text-anchor="middle" fill="#DDE8F7">systems</text>
+
+    <rect x="930" y="268" width="108" height="56" rx="12" fill="#0D1828" stroke="#7AA2FF" stroke-opacity=".55"/>
+    <text x="984" y="301" text-anchor="middle" fill="#DDE8F7">data</text>
+
+    <circle cx="1110" cy="204" r="21" fill="#101D30" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M1101 204l6 6 12-14" fill="none" stroke="#66E3C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
