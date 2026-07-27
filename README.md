@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jackson-zheng-844172247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Jacksonzheng425@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JacksonZheng07&label=Profile%20views&color=555&style=flat" alt="Profile views" />
 </p>
 
 ## About me
