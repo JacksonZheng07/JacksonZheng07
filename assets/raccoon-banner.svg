@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Jackson Zheng — building after dark</title>
+  <desc id="desc">A moonlit developer profile banner featuring a geometric raccoon mascot.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#090C14"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFF2B2"/><stop offset="1" stop-color="#F2B84B"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#77E1C1"/><stop offset="1" stop-color="#7DA8FF"/>
+    </linearGradient>
+    <radialGradient id="halo"><stop stop-color="#FFD76A" stop-opacity=".16"/><stop offset="1" stop-color="#FFD76A" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#DCE7FF" fill-opacity=".06"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="28" fill="url(#night)"/>
+  <rect width="1200" height="390" rx="28" fill="url(#dots)"/>
+  <rect x="28" y="28" width="1144" height="334" rx="20" fill="none" stroke="#B7C4DD" stroke-opacity=".13"/>
+
+  <g fill="#91A0BA">
+    <circle cx="755" cy="73" r="2"/><circle cx="812" cy="48" r="1.5"/><circle cx="1090" cy="74" r="2"/><circle cx="1130" cy="153" r="1.5"/><circle cx="707" cy="151" r="1.5"/>
+    <path d="M746 110h14M753 103v14M1090 120h12M1096 114v12" stroke="#91A0BA" stroke-width="1.5" fill="none" opacity=".6"/>
+  </g>
+
+  <text x="74" y="86" fill="#7889A6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">~/the-den/profile.md</text>
+  <text x="72" y="156" fill="#F6F8FC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="60" font-weight="750" letter-spacing="-2">Jackson Zheng</text>
+  <rect x="74" y="178" width="96" height="4" rx="2" fill="url(#mint)"/>
+  <text x="74" y="224" fill="#C1CCE0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">CS + Math @ Northeastern</text>
+  <text x="74" y="258" fill="#9FADC5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="19">ML · data automation · systems · infrastructure</text>
+
+  <g transform="translate(74 296)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    <rect width="138" height="34" rx="17" fill="#111C2C" stroke="#77E1C1" stroke-opacity=".45"/><circle cx="18" cy="17" r="4" fill="#77E1C1"/><text x="31" y="22" fill="#B9C7DB">BUILDING NOW</text>
+    <rect x="150" width="154" height="34" rx="17" fill="#111C2C" stroke="#7DA8FF" stroke-opacity=".45"/><text x="171" y="22" fill="#B9C7DB">AFTER DARK ☾</text>
+  </g>
+
+  <g transform="translate(820 30)">
+    <circle cx="162" cy="164" r="154" fill="url(#halo)" filter="url(#blur)"/>
+    <circle cx="175" cy="142" r="112" fill="url(#moon)"/>
+    <circle cx="205" cy="117" r="103" fill="#131C2C"/>
+
+    <!-- ears -->
+    <path d="M68 126L74 55l64 52z" fill="#758197"/><path d="M282 126l-7-71-63 52z" fill="#758197"/>
+    <path d="M82 104l2-28 27 23zM268 104l-3-28-27 23z" fill="#293344"/>
+
+    <!-- head -->
+    <path d="M69 130c13-52 53-79 106-79s93 27 106 79c10 43-3 116-47 150-19 15-40 24-59 24s-40-9-59-24c-44-34-57-107-47-150z" fill="#8792A5"/>
+    <path d="M83 139c28-35 60-47 92-47s64 12 92 47c-17 10-29 22-37 39-17-10-35-15-55-15s-38 5-55 15c-8-17-20-29-37-39z" fill="#273142"/>
+
+    <!-- mask -->
+    <path d="M89 145c32-26 58-30 86-14-11 17-22 33-42 44-19 10-41 6-57-4 2-10 6-18 13-26z" fill="#111722"/>
+    <path d="M261 145c-32-26-58-30-86-14 11 17 22 33 42 44 19 10 41 6 57-4-2-10-6-18-13-26z" fill="#111722"/>
+    <ellipse cx="129" cy="148" rx="16" ry="19" fill="#EAF0F8"/><ellipse cx="221" cy="148" rx="16" ry="19" fill="#EAF0F8"/>
+    <circle cx="132" cy="151" r="8" fill="#151C28"/><circle cx="218" cy="151" r="8" fill="#151C28"/>
+    <circle cx="135" cy="147" r="2.5" fill="#77E1C1"/><circle cx="215" cy="147" r="2.5" fill="#77E1C1"/>
+
+    <!-- muzzle -->
+    <path d="M126 181c15-14 32-21 49-21s34 7 49 21c-1 39-20 70-49 70s-48-31-49-70z" fill="#D9DEE7"/>
+    <path d="M154 183c5-8 12-12 21-12s16 4 21 12c-4 13-11 19-21 19s-17-6-21-19z" fill="#161C26"/>
+    <path d="M175 201v15M175 216c-10 0-16 5-19 11M175 216c10 0 16 5 19 11" fill="none" stroke="#667185" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- laptop -->
+    <path d="M75 252h200l-15 76H90z" fill="#202A3A" stroke="#7DA8FF" stroke-opacity=".45" stroke-width="2"/>
+    <path d="M61 328h228l-13 16H74z" fill="#354155"/>
+    <circle cx="175" cy="291" r="14" fill="none" stroke="url(#mint)" stroke-width="3"/>
+    <path d="M169 291l5 5 9-11" fill="none" stroke="#77E1C1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
