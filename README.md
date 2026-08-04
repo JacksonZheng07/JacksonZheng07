@@ -12,7 +12,7 @@
 
 ## About me
 
-- 🎓 Second-year **Computer Science + Mathematics** student in Northeastern's Honors Program
+- Second-year **Computer Science + Mathematics** student in Northeastern's Honors Program
 
 ## Tech stack
 
