@@ -19,7 +19,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,java,js,matlab,ocaml" alt="Python, TypeScript, Java, C, C++, JavaScript, MATLAB, and OCaml" />
+  <img src="https://skillicons.dev/icons?i=python,ts,java,c,cpp,js,matlab,ocaml" alt="Python, TypeScript, Java, C, C++, JavaScript, MATLAB, and OCaml" />
 </p>
 
 **Frameworks and tools**
