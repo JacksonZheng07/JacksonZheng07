@@ -10,10 +10,6 @@
   <a href="mailto:Jacksonzheng425@gmail.com"><img src="https://img.shields.io/badge/Email-D9A15B?style=flat&logo=gmail&logoColor=3B3B3B" alt="Email" /></a>
 </p>
 
-## About me
-
-- Second-year **Computer Science + Mathematics** student in Northeastern's Honors Program
-
 ## Tech stack
 
 **Languages**
