@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jackson Zheng 👋</h1>
 
 <p align="center">
-  <strong>Second-year CS + Math student at Northeastern University</strong><br />
+  <strong>CS + Math student at Northeastern University</strong><br />
   Building ML, data automation, and scalable systems
 </p>
 
